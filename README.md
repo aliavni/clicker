@@ -1,5 +1,12 @@
-# Clicker
+# <img src="assets/icon.png" height="20">  Clicker
+
+It clicks, so you don't have to!
+
+[Download Mac App](https://bit.ly/clicker-app-mac-v100)
+
+
 ![Clicker](assets/screenshot.png "Clicker")
+
 
 ## Mac instructions
 
